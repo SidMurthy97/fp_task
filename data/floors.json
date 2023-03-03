@@ -1,0 +1,120 @@
+[
+    {
+        "id": "H-3F",
+        "image": {
+            "name": "H-3F.png",
+            "width": 1000,
+            "height": 646
+        },
+        "sensors": [
+            {
+                "sensor_id": "ENKZYW001792",
+                "location": {
+                    "y": 487.47,
+                    "x": 355.19
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001804",
+                "location": {
+                    "y": 313.77,
+                    "x": 203.47
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001819",
+                "location": {
+                    "y": 153.54,
+                    "x": 387.91
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001837",
+                "location": {
+                    "y": 134.67,
+                    "x": 609.73
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001848",
+                "location": {
+                    "y": 156.61,
+                    "x": 891.23
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001856",
+                "location": {
+                    "y": 314.84,
+                    "x": 920.65
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001882",
+                "location": {
+                    "y": 488.12,
+                    "x": 875.91
+                }
+            }
+        ]
+    },
+    {
+        "id": "H-4F",
+        "image": {
+            "name": "H-4F.png",
+            "width": 1000,
+            "height": 646
+        },
+        "sensors": [
+            {
+                "sensor_id": "ENKZYW001883",
+                "location": {
+                    "y": 449.36,
+                    "x": 351.34
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001884",
+                "location": {
+                    "y": 321.73,
+                    "x": 208.76
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001888",
+                "location": {
+                    "y": 141.12,
+                    "x": 306.65
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001900",
+                "location": {
+                    "y": 139.42,
+                    "x": 602.35
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001925",
+                "location": {
+                    "y": 140.07,
+                    "x": 788.43
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001935",
+                "location": {
+                    "y": 330.12,
+                    "x": 919.71
+                }
+            },
+            {
+                "sensor_id": "ENKZYW001958",
+                "location": {
+                    "y": 446.13,
+                    "x": 784.86
+                }
+            }
+        ]
+    }
+]
